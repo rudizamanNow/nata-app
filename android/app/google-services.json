@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "787758699898",
+    "project_id": "nata-app-7b5a6",
+    "storage_bucket": "nata-app-7b5a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787758699898:android:7352d9c5639e2e54d572c3",
+        "android_client_info": {
+          "package_name": "com.example.nata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787758699898-ip0rdcn12jkrqcq0o9aa6n6chbf8neal.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nata",
+            "certificate_hash": "fa00d3cb52d7854a06f99855615828bc8e068939"
+          }
+        },
+        {
+          "client_id": "787758699898-7c2dg89jtrjrvf4f1hkhflhkhcr9avet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdXZEJcYT0gSNk_yDohfvIIq8NQM-UYN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787758699898-7c2dg89jtrjrvf4f1hkhflhkhcr9avet.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
